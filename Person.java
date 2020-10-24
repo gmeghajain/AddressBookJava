@@ -19,6 +19,19 @@ public class Person {
         this.state = state;
         this.zip = zip;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
     public class Person {
         String firstName;
         String lastName;
